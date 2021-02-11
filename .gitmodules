@@ -4,3 +4,9 @@
 [submodule "farming_plusplus"]
 	path = farming_plusplus
 	url = https://github.com/MTDad/farming_plusplus.git
+[submodule "wine"]
+	path = wine
+	url = https://notabug.org/TenPlus1/wine.git
+[submodule "sickles"]
+	path = sickles
+	url = https://github.com/t-affeldt/sickles.git
